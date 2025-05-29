@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "posts": "Artículos",
+    "about": "Sobre mí"
+  },
+  "routes": {
+    "posts": "articulos",
+    "about": "sobre-mi"
+  },
+  "button": {
+    "text": "Leer más"
+  },
+  "post": {
+    "text": "Volver"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "text": "Bienvenido a nuestro espacio digital. Este blog nace con la intención de compartir conocimientos, experiencias y recursos sobre desarrollo frontend, con un enfoque especial en tecnologías como Vue, TypeScript, HTML y CSS.Detrás de este proyecto hay una pasión genuina por el aprendizaje constante y la construcción de interfaces limpias, accesibles y modernas. Aquí encontrarás desde guías paso a paso hasta reflexiones personales sobre el proceso de aprender a programar en un entorno en constante evolución.Nuestro objetivo es crear una comunidad donde programadores —principiantes y no tanto— puedan encontrar inspiración, apoyo y herramientas para crecer profesionalmente. Gracias por leer, por aprender con nosotros y por formar parte de este viaje."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "posts": "Posts",
+    "about": "About"
+  },
+  "routes": {
+    "posts": "posts",
+    "about": "about"
+  },
+  "button": {
+    "text": "Read more"
+  },
+  "post": {
+    "text": "Back"
+  },
+  "about": {
+    "title": "About Me",
+    "text": "Welcome to our digital space. This blog was created with the intention of sharing knowledge, experiences, and resources about frontend development, with a special focus on technologies like Vue, TypeScript, HTML, and CSS. Behind this project is a genuine passion for continuous learning and building clean, accessible, and modern interfaces. Here you will find everything from step-by-step guides to personal reflections on the process of learning to code in a constantly evolving environment. Our goal is to create a community where developers —beginners and experienced alike— can find inspiration, support, and tools to grow professionally. Thank you for reading, for learning with us, and for being part of this journey."
+  }
+}
