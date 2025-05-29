@@ -1,6 +1,8 @@
-# blog
+# Blog
 
-This template should help get you started developing with Vue 3 in Vite.
+Blog multilenguaje desde cero con Vue 3.
+
+![blog](https://github.com/user-attachments/assets/6ead37ee-2592-40e9-82d4-ba98b9fb5c86)
 
 ## Recommended IDE Setup
 
